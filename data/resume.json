@@ -2,12 +2,12 @@
     "avatar": "/resume/data/1.jpg",
     "background_image": "https://9to5mac.files.wordpress.com/2014/08/yosemite-3.jpg?w=1200&h=&crop=1",
     "basicinfo": {
-        "name": "龙淼",
-        "description": "岂能尽如人意，但求无愧我心",
-        "school": "电子科技大学",
-        "profession": "计算机科学与技术",
-        "sex": "男",
-        "education" : "硕士",
+        "name": "Long Miao",
+        "description": "Can not be satisfactory, but ask not to be ashamed of my heart",
+        "school": "University of Electronic Science and Technology",
+        "profession": "Computer technology",
+        "sex": "Man",
+        "education" : "master",
         "workage": "2023届毕业",
         "phone": "+86 18281618687",
         "email": "longmiao513@gmail.com"
@@ -15,26 +15,6 @@
     "social":[
         {
             "type": "github",
-            "link": "https://github.com/Jayin",
-            "icon": ""
-        },
-        {
-            "type": "weibo",
-            "link": "http://weibo.com",
-            "icon": ""
-        },
-        {
-            "type": "linkedin",
-            "link": "https://www.linkedin.com",
-            "icon": ""
-        },
-        {
-            "type": "twitter",
-            "link": "https://twitter.com",
-            "icon": ""
-        },
-        {
-            "type": "home",
             "link": "https://github.com/Jayin",
             "icon": ""
         }
